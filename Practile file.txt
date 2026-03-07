@@ -1,1 +1,0 @@
-For practicing to work with Git and GitHub
